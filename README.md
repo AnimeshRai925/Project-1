@@ -2,7 +2,7 @@
 
 This is a simple and responsive tribute website dedicated to **Dr. A.P.J. Abdul Kalam**, the former President of India and one of the nation's most celebrated scientists and visionaries.
 
-![A.P.J. Abdul Kalam Tribute](./images/kalam.jpg)
+![A.P.J. Abdul Kalam Tribute](https://github.com/AnimeshRai925/Project-1/blob/main/kalam.jpg)
 
 ## 🌟 Project Highlights
 
